@@ -9,7 +9,7 @@ For the past year, I’ve been learning and developing projects that combine cle
 
 ## 🚀 Featured Projects
 
-### 📖 [Storify – AI-Powered Interactive Storytelling App](https://github.com/emrealidemirel/storify)
+### 📖 [Storify – AI-Powered Interactive Storytelling App](https://github.com/emrealidemirel/storify_app)
 Create and progress stories using artificial intelligence.  
 Users choose a theme, make decisions, and the story evolves dynamically — powered by the ChatGPT API.
 
