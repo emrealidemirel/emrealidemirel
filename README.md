@@ -1,79 +1,107 @@
-# 👋 Hi, I'm Emre Demirel
+# Hi, I'm Emre Demirel
 
-🎯 **Jr. Flutter Developer | Mobile App Developer**
+**Junior Flutter Developer | Mobile App Developer**
 
-I'm a passionate mobile developer focusing on building modern, user-friendly Flutter applications.  
-For the past year, I’ve been learning and developing projects that combine clean architecture, state management, and AI integration.
+I'm a mobile developer focused on building modern, user-friendly applications with Flutter and Dart.
+
+Over the past year, I have been continuously improving my skills through hands-on projects involving state management, Firebase, local data storage, REST APIs, localization, and AI integration.
+
+My goal is to write maintainable code, build intuitive user experiences, and continue developing my knowledge of software architecture and mobile application development.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📖 [Storify – AI-Powered Interactive Storytelling App](https://github.com/emrealidemirel/storify_app)
-Create and progress stories using artificial intelligence.  
-Users choose a theme, make decisions, and the story evolves dynamically — powered by the ChatGPT API.
+### Storify
 
-**Highlights:**
-- AI-powered storytelling (ChatGPT API)
-- Theme-based story creation  
-- Multi-language support (`easy_localization`)
-- Firebase Auth (Email, Google, Guest login)
-- Cloud sync with Firebase Storage  
-- Fully responsive with `responsive_sizer`
+An AI-powered interactive storytelling application where users can create and shape stories through their choices.
+
+Users select a theme, make decisions throughout the story, and dynamically influence how the narrative progresses with AI-generated content.
+
+**Key Features**
+
+- AI-powered interactive storytelling using the ChatGPT API
+- Theme-based story creation
+- Multi-language support with `easy_localization`
+- Firebase Authentication with Email, Google, and Guest login
+- Firebase-based cloud integration
+- Responsive interface using `responsive_sizer`
+- State management with Bloc / Cubit
 
 **Tech Stack:** Flutter • Dart • Bloc / Cubit • Firebase • ChatGPT API
 
 ---
 
-### 💊 [MedApp – Medication Reminder App](https://github.com/emrealidemirel/medapp)
-A clean and simple medication reminder app that helps users manage their medicine schedule efficiently.  
-Designed especially for middle-aged and elderly users.
+### MedApp
 
-**Highlights:**
-- Local notifications & alarm reminders  
-- Daily, weekly, and custom schedules  
-- Medicine history (taken / missed doses)  
-- “My Medicines” & “History” pages  
-- Offline support via Hive
+A simple and accessible medication reminder application designed to help users manage their medicine schedules efficiently.
 
-**Tech Stack:** Flutter • Dart • Hive • Local Notifications
+The interface is designed with usability in mind, particularly for middle-aged and elderly users.
 
----
+**Key Features**
 
-### 🎓 [Flutter Learning Projects](https://github.com/emrealidemirel/flutter-learning-projects)
-A collection of mini Flutter projects created during my learning journey.  
-Each project focuses on a specific Flutter concept or UI pattern.
+- Local notifications and medication reminders
+- Daily, weekly, monthly, and custom schedules
+- Medicine tracking for taken and missed doses
+- Dedicated "My Medicines" and "History" sections
+- Offline local data storage with Hive
+- Simple and user-friendly interface
 
-**Projects include:**
-- Pokémon Card App (`flutter_pokedex`)
-- Zodiac Signs App (`flutter_burclar`)
-- Grade Calculator (`dinamik_ortalama_hesaplama`)
-- Fashion UI (`flutter_moda`)
-- Counter App (`flutter_sayac_uygulamasi`)
-- To-Do App (`flutter_todo_app`)
-- Calculator (`hesap_makinesi`)
-
-These projects helped me strengthen my knowledge of state management, widgets, and responsive UI design.
+**Tech Stack:** Flutter • Dart • Hive • Flutter Local Notifications
 
 ---
 
-## 🛠️ Tech Stack
-Flutter • Dart • Firebase • Bloc / Cubit • Hive • ChatGPT API • REST API • Localization
+### Flutter Learning Projects
+
+A collection of small Flutter applications developed throughout my learning journey.
+
+Each project focuses on different Flutter concepts, UI patterns, widgets, and application development fundamentals.
+
+**Projects**
+
+- Pokémon Card App — `flutter_pokedex`
+- Zodiac Signs App — `flutter_burclar`
+- Grade Calculator — `dinamik_ortalama_hesaplama`
+- Fashion UI — `flutter_moda`
+- Counter App — `flutter_sayac_uygulamasi`
+- To-Do App — `flutter_todo_app`
+- Calculator — `hesap_makinesi`
+
+These projects helped me strengthen my understanding of Flutter widgets, application structure, state management, navigation, and responsive UI development.
 
 ---
 
-## 🌱 Currently Learning
-- Clean architecture & testing in Flutter  
-- Advanced Firebase features  
-- State management optimization (Bloc best practices)
+## Technical Skills
+
+**Mobile Development**  
+Flutter • Dart
+
+**State Management**  
+Bloc • Cubit
+
+**Backend & Services**  
+Firebase • REST APIs • ChatGPT API
+
+**Local Storage**  
+Hive • SharedPreferences
+
+**Other**  
+Localization • Responsive UI • Git • GitHub
 
 ---
 
-## 💬 Let's Connect
-📧 **emrealidemirel@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/emrealidemirel/)  
-💻 [GitHub](https://github.com/emrealidemirel)
+## Currently Learning
+
+- Clean Architecture in Flutter
+- Unit and widget testing
+- Advanced Firebase features
+- Bloc architecture and state management best practices
+- Writing more scalable and maintainable Flutter applications
 
 ---
 
-⭐️ *If you like my projects, consider giving them a star — your support motivates me to keep learning and building!*
+## Connect With Me
+
+**Email:** emrealidemirel@gmail.com  
+**LinkedIn:** [linkedin.com/in/emrealidemirel](https://www.linkedin.com/in/emrealidemirel/)  
+**GitHub:** [github.com/emrealidemirel](https://github.com/emrealidemirel)
