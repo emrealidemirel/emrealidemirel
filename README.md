@@ -12,7 +12,21 @@ My goal is to write maintainable code, build intuitive user experiences, and con
 
 ## Featured Projects
 
-### Storify
+### [BugPilot AI](https://github.com/emrealidemirel/bugpilot-ai)
+
+An AI-assisted bug reporting and QA management app built with Flutter. Bug reports are stored locally and can be analyzed with AI to suggest severity, priority, and related reports.
+
+**Key Features**
+
+- Create and manage bug reports on-device
+- AI-assisted analysis and similar report detection
+- Optional screenshot context for analysis
+
+**Tech Stack:** Flutter • Dart • Hive CE • OpenAI API • Firebase Authentication
+
+---
+
+### [Storify](https://github.com/emrealidemirel/storify_app)
 
 An AI-powered interactive storytelling application where users can create and shape stories through their choices.
 
@@ -32,7 +46,7 @@ Users select a theme, make decisions throughout the story, and dynamically influ
 
 ---
 
-### MedApp
+### [MedApp](https://github.com/emrealidemirel/medapp)
 
 A simple and accessible medication reminder application designed to help users manage their medicine schedules efficiently.
 
@@ -51,7 +65,7 @@ The interface is designed with usability in mind, particularly for middle-aged a
 
 ---
 
-### Flutter Learning Projects
+### [Flutter Learning Projects](https://github.com/emrealidemirel/flutter_learning_projects)
 
 A collection of small Flutter applications developed throughout my learning journey.
 
